@@ -1,2 +1,2 @@
-## �? t�i giao di?n web t?m ki?m vi?c l�m nh�m 3
-# Nguy?n V�n An, B�i Vi?t Quang
+## Đề tài giao diện web tìm kiếm việc làm nhóm 3
+# Nguyễn Văn An, Bùi Việt Quang
