@@ -1,6 +1,4 @@
-//$(document).ready(function() {
-//$('.search-box').focus();
-//});
+
 
 const wrapper = document.querySelector(".wrapper");
 const header = document.querySelector(".header");
